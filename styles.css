@@ -1,0 +1,8 @@
+html {
+    margin: 0;
+    font-family: "Syne Mono", monospace;
+}
+body {
+    margin: 1vmin;
+    background-color: lightgrey;
+}
